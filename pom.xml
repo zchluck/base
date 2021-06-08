@@ -6,7 +6,11 @@
 
     <groupId>com.github.tot</groupId>
     <artifactId>base</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-RELEASE</version>
+    <modules>
+        <module>tot</module>
+    </modules>
 
 
 </project>
